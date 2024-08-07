@@ -1,0 +1,31 @@
+{
+  "user": [
+    {
+      "name": "Het Ghori",
+      "email": "ghorihet71@gmail.com",
+      "password": "ghorihet@1234",
+      "dob": "2007-02-01",
+      "id": 1
+    }
+  ],
+  "cinema": [
+    {
+      "name": "DR World",
+      "location": "L H Road",
+      "facility": "Food Parking",
+      "id": 1
+    },
+    {
+      "name": "VR MALL",
+      "location": "Vesu Surat",
+      "facility": "Parking",
+      "id": 2
+    },
+    {
+      "name": "Rajhans Cinema Mall",
+      "location": "Katargam Surat",
+      "facility": "Seat",
+      "id": 3
+    }
+  ]
+}
